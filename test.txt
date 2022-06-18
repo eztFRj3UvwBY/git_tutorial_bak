@@ -3,4 +3,4 @@ bbb
 ccc
 hoge1
 hoge2
-
+git diff
